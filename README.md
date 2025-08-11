@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Lautaro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-## 🎓Advanced Programming Student
+### 🎓Advanced Programming Student
 
-👨‍💻**Student** of the University Technical Degree in Programming at UTN.
+👨‍💻 **Student** of the University Technical Degree in Programming at [UTN FRGP](https://www.frgp.utn.edu.ar/carreras/tup_tuss)
 
 🔍 Passionate about software development and always seeking new challenges.
 
@@ -11,7 +11,7 @@ I also have knowledge in hardware, software, databases, and previous experience 
 
 ---
 
-## 🛠️ Technologies and Tools
+### 🛠️ Technologies and Tools
 
 - **Languages:**
 
@@ -37,7 +37,7 @@ I am continuously expanding my skill set by exploring new programming languages 
 ---
 
 
-## 📂 Here are some projects I have collaborated on:
+### 📂 Here are some projects I have collaborated on:
 
 <div>
   <p>
