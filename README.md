@@ -35,6 +35,24 @@ I also have knowledge in hardware, software, databases, and previous experience 
 I am continuously expanding my skill set by exploring new programming languages and frameworks to stay adaptable in the evolving tech landscape. I enjoy applying best practices in software development and version control to deliver reliable and maintainable solutions.
 
 ---
+💼 Personal Project: CashRegisterApp
+<div> 
+  <p> 
+    <a href="https://github.com/Lato001/CashRegisterApp"> 
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lato001&repo=CashRegisterApp&theme=tokyonight" alt="CashRegisterApp - Web-based cash management application" />
+    </a>
+  </p> 
+</div> 
+<p> 
+  <strong>CashRegisterApp</strong> is a personal Single Page Application (SPA) focused on cash management for small businesses. Built with modern <strong>JavaScript/TypeScript</strong>
+  technologies, it emphasizes a clean, maintainable, and scalable architecture. 
+</p> 
+<p> <strong>Tech Stack:
+  </strong> React · TypeScript · Vite · Tailwind CSS <br/> 
+  <strong>Data Layer:</strong> Mock JSON data (future integration with Prisma + PostgreSQL) <br/>
+  <strong>Version Control:
+  </strong> Git & GitHub </p>
+---
 
 
 ### 📂 Here are some projects I have collaborated on:
