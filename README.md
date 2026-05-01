@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Lautaro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hola 👋, Soy Lautaro <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 
-### 🎓Advanced Programming Student
+### 🎓Estudiante Avanzado en Programación
 
-👨‍💻 **Student** of the University Technical Degree in Programming at [UTN FRGP](https://www.frgp.utn.edu.ar/carreras/tup_tuss)
+👨‍💻 **Estudiante** de la Tecnicatura Universitaria en Sistemas [UTN FRGP](https://www.frgp.utn.edu.ar/carreras/tup_tuss)
 
-🔍 Passionate about software development and always seeking new challenges.
+🔍 Apasionado del Software y en búsqueda de nuevos desafíos.
 
-🏃‍♂️ I am motivated to learn new technologies, solve problems creatively, and build solutions that add value.
-I also have knowledge in hardware, software, databases, and previous experience in demanding work environments that strengthened my commitment, punctuality, and proactivity.
+🏃‍♂️ Me motiva aprender sobre nuevas tecnologías, solucionar problemas de formas creativas y crear nuevas soluciones en grupo.
+Cuento con conocimientos en Hardware, Software y Bases de datos, y experiencia previa en entornos laborales exigentes que han fortalecido mi compromiso, puntualidad y proactividad.
 
 ---
 
@@ -32,7 +32,7 @@ I also have knowledge in hardware, software, databases, and previous experience 
  
 
 
-I am continuously expanding my skill set by exploring new programming languages and frameworks to stay adaptable in the evolving tech landscape. I enjoy applying best practices in software development and version control to deliver reliable and maintainable solutions.
+Me mantengo en constante evolución, ampliando mis habilidades mediante la exploración de nuevos lenguajes de programación y frameworks para adaptarme al panorama tecnológico. Disfruto aprendiendo mejores prácticas sobre desarrollo y control de versiones para ofrecer soluciones escalables y confiables para los clientes.
 
 <h3 align="center">📫 Connect with me:</h3>
 <div align="center">
