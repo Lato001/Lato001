@@ -6,7 +6,7 @@
 
 🔍 Apasionado del Software y en búsqueda de nuevos desafíos.
 
-🏃‍♂️ Me motiva aprender sobre nuevas tecnologías, solucionar problemas de formas creativas y crear nuevas soluciones en grupo.
+🏃‍♂️ Me motiva aprender sobre nuevas tecnologías, solucionar problemas de formas creativas y crear nuevas soluciones en grupo.<br>
 Cuento con conocimientos en Hardware, Software y Bases de datos, y experiencia previa en entornos laborales exigentes que han fortalecido mi compromiso, puntualidad y proactividad.
 
 ---
@@ -32,7 +32,7 @@ Cuento con conocimientos en Hardware, Software y Bases de datos, y experiencia p
  
 
 
-Me mantengo en constante evolución, ampliando mis habilidades mediante la exploración de nuevos lenguajes de programación y frameworks para adaptarme al panorama tecnológico. Disfruto aprendiendo mejores prácticas sobre desarrollo y control de versiones para ofrecer soluciones escalables y confiables para los clientes.
+Me mantengo en constante evolución, ampliando mis habilidades mediante la exploración de nuevos lenguajes de programación y frameworks para adaptarme al panorama tecnológico.<br>Disfruto aprendiendo mejores prácticas sobre desarrollo y control de versiones para ofrecer soluciones escalables y confiables para los clientes.
 
 <h3 align="center">📫 Connect with me:</h3>
 <div align="center">
