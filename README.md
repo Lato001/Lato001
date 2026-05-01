@@ -58,16 +58,7 @@ I am continuously expanding my skill set by exploring new programming languages 
 
 ### 📂 Here are some projects I have collaborated on:
 
-<div>
-  <p>
-    <a href="https://github.com/aguss101/Clinica-Medica">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aguss101&repo=Clinica-Medica" alt="Clinica Médica - Gestión clínica web" />
-    </a>
-    <a href="https://github.com/Lato001/SistemaDeGestion">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lato001&repo=SistemaDeGestion" alt="Sistema de Gestión - Proyecto Integrador C++" />
-    </a>
-  </p>
-</div>
+
 
 ---
 <h3 align="center">📫 Connect with me:</h3>
