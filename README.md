@@ -15,7 +15,7 @@ I also have knowledge in hardware, software, databases, and previous experience 
 
 - **Languages:**
 
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;&nbsp;&nbsp; ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) &nbsp;&nbsp;&nbsp; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;&nbsp;&nbsp; ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;&nbsp;&nbsp; ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;&nbsp;&nbsp; ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) &nbsp;&nbsp;&nbsp; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 - **Frameworks:**  
 
@@ -34,42 +34,6 @@ I also have knowledge in hardware, software, databases, and previous experience 
 
 I am continuously expanding my skill set by exploring new programming languages and frameworks to stay adaptable in the evolving tech landscape. I enjoy applying best practices in software development and version control to deliver reliable and maintainable solutions.
 
----
-### 💼 Personal Project: CashRegisterApp
-<div> 
-  <p> 
-    <a href="https://github.com/Lato001/CashRegisterApp"> 
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lato001&repo=CashRegisterApp" alt="CashRegisterApp - Web-based cash management application" />
-    </a>
-  </p> 
-</div> 
-<p> 
-  <strong>CashRegisterApp</strong> is a personal Single Page Application (SPA) focused on cash management for small businesses. Built with modern <strong>JavaScript/TypeScript</strong>
-  technologies, it emphasizes a clean, maintainable, and scalable architecture. 
-</p> 
-<p> <strong>Tech Stack:
-  </strong> React · TypeScript · Vite · Tailwind CSS <br/> 
-  <strong>Data Layer:</strong> Mock JSON data (future integration with Prisma + PostgreSQL) <br/>
-  <strong>Version Control:
-  </strong> Git & GitHub </p>
-
----
-
-
-### 📂 Here are some projects I have collaborated on:
-
-<div>
-  <p>
-    <a href="https://github.com/aguss101/Clinica-Medica">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=aguss101&repo=Clinica-Medica" alt="Clinica Médica - Gestión clínica web" />
-    </a>
-    <a href="https://github.com/Lato001/SistemaDeGestion">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lato001&repo=SistemaDeGestion" alt="Sistema de Gestión - Proyecto Integrador C++" />
-    </a>
-  </p>
-</div>
-
----
 <h3 align="center">📫 Connect with me:</h3>
 <div align="center">
 
